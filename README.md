@@ -65,6 +65,8 @@ Compressing larger files is a crucial process in managing data efficiently. By r
 #
 ### Related Links
 
+[Mass Image Compressor](https://sourceforge.net/projects/icompress/)
+<br>
 [Data Generator](https://github.com/sourceduty/Data_Generator)
 <br>
 [Data Architect](https://github.com/sourceduty/Data_Architect)
