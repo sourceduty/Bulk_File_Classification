@@ -54,6 +54,11 @@ File Size: Each individual file can be up to 100 MB in size.
 Total Number of Files: Multiple files can be uploaded at once, but the total combined size should not exceed 100 MB per upload.
 
 #
+### File Compression
+
+Compressing larger files is a crucial process in managing data efficiently. By reducing the size of files, compression helps save storage space and facilitates faster data transfer, especially over the internet. This process involves encoding information using fewer bits, which can be achieved through various algorithms such as ZIP, RAR, and 7-Zip. These algorithms use techniques like lossless and lossy compression; the former retains the original data intact, while the latter reduces file size by eliminating some data. Compression is widely used in various fields, from sending large email attachments to archiving data and optimizing website performance. Effective compression ensures that large files can be stored, transmitted, and accessed more efficiently, making it an essential tool in modern data management.
+
+#
 
 > Alex: *"This is a very intelligent custom GPT developed for classifying large quantities of mixed files into organized datasets."*
 
