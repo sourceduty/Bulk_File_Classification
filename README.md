@@ -45,6 +45,13 @@ Jane has a mixed collection of files including images from her vacation, work do
 By following these steps, Jane efficiently organizes her files, making them easier to find and manage in the future.
 
 #
+### File Size Limits
+
+File Size: Each individual file can be up to 100 MB in size.
+
+Total Number of Files: Multiple files can be uploaded at once, but the total combined size should not exceed 100 MB per upload.
+
+#
 
 > Alex: *"This is a very intelligent custom GPT developed for classifying large quantities of mixed files into organized datasets."*
 
