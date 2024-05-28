@@ -45,7 +45,7 @@ By following these steps, Jane efficiently organizes her files, making them easi
 
 #
 
-> Alex: *"This is a very intelligent custom GPT developed for classifying large quantities of mixed files into organizaed datsets."*
+> Alex: *"This is a very intelligent custom GPT developed for classifying large quantities of mixed files into organized datasets."*
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
