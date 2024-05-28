@@ -43,5 +43,9 @@ Jane has a mixed collection of files including images from her vacation, work do
 
 By following these steps, Jane efficiently organizes her files, making them easier to find and manage in the future.
 
+#
+
+> Alex: *"This is a very intelligent custom GPT developed for classifying large quantities of mixed files into organizaed datsets."*
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
