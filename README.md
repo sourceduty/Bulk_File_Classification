@@ -8,6 +8,8 @@ In addition to categorization, Bulk File Classification recommends naming conven
 
 Exporting the classified data is a crucial feature of the Bulk File Classification process. Once files are identified and categorized, the system can generate a comprehensive dataset that details the classification results. This dataset can be exported in various formats, such as CSV or Excel, allowing users to easily access, share, and analyze the information. The exported data includes file names, categories, subcategories, and other relevant metadata, providing a well-organized overview of the entire file collection. This functionality enhances data management, facilitates further processing, and ensures that users maintain a clear and structured record of their classified files.
 
+'Bulk File Classification' leverages image recognition technology to analyze and categorize large quantities of image files efficiently. By employing advanced algorithms, it can identify and classify images based on various attributes such as content, context, and metadata. This process involves extracting visual features from each image, comparing them against a vast database of known patterns, and assigning appropriate categories. The system can recognize objects, scenes, and even text within images, making it versatile for different classification needs. This ensures that users can organize their image files systematically, improving retrieval and management. Additionally, the tool can handle diverse file formats and provide detailed instructions for users to follow, ensuring accuracy and consistency in the classification process.
+
 #
 ### Example Usage
 
