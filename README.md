@@ -47,5 +47,14 @@ By following these steps, Jane efficiently organizes her files, making them easi
 
 > Alex: *"This is a very intelligent custom GPT developed for classifying large quantities of mixed files into organized datasets."*
 
+#
+### Related Links
+
+[Data Generator](https://github.com/sourceduty/Data_Generator)
+<br>
+[Data Architect](https://github.com/sourceduty/Data_Architect)
+<br>
+[Dataset Analyzer](https://chatgpt.com/g/g-cYFvzXtdg-dataset-analyzer)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
