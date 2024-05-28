@@ -6,7 +6,5 @@ Once the file types are determined, Bulk File Classification suggests appropriat
 
 In addition to categorization, Bulk File Classification recommends naming conventions that can help keep your files systematically organized and easily searchable. Proper naming conventions are essential for maintaining order and for quickly finding the files you need. Finally, the tool offers step-by-step guidance through the entire classification process, ensuring that you can follow along easily and achieve accurate results. This thorough approach ensures that your file organization is comprehensive and effective.
 
-Would you like to start the process? If so, we can begin by identifying the types of files you need to classify. Please let me know which of the following options best describes your files: images, documents, audio, video, or mixed (multiple file types). This initial step is crucial for tailoring the classification process to your specific needs.
-
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
