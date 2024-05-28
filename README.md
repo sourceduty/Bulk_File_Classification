@@ -6,6 +6,7 @@ Once the file types are determined, Bulk File Classification suggests appropriat
 
 In addition to categorization, Bulk File Classification recommends naming conventions that can help keep your files systematically organized and easily searchable. Proper naming conventions are essential for maintaining order and for quickly finding the files you need. Finally, the tool offers step-by-step guidance through the entire classification process, ensuring that you can follow along easily and achieve accurate results. This thorough approach ensures that your file organization is comprehensive and effective.
 
+Exporting the classified data is a crucial feature of the Bulk File Classification process. Once files are identified and categorized, the system can generate a comprehensive dataset that details the classification results. This dataset can be exported in various formats, such as CSV or Excel, allowing users to easily access, share, and analyze the information. The exported data includes file names, categories, subcategories, and other relevant metadata, providing a well-organized overview of the entire file collection. This functionality enhances data management, facilitates further processing, and ensures that users maintain a clear and structured record of their classified files.
 
 #
 ### Example Usage
