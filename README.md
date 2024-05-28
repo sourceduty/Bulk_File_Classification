@@ -1,4 +1,4 @@
-![Bulk File Classification](https://github.com/sourceduty/Bulk_File_Classification/assets/123030236/cd6fcbca-36f1-4dea-ae40-c9b238dfe6b5)
+![Bulk File Classification](https://github.com/sourceduty/Bulk_File_Classification/assets/123030236/f7f841b5-c14a-4067-8a8b-bbb082189c80)
 
 [Bulk File Classification](https://chatgpt.com/g/g-z13Z9a5LP-bulk-file-classification) is a specialized custom GPT developed to assist you in organizing large quantities of files, including images, documents, audio, and video. It provides detailed and systematic guidance to ensure your files are categorized accurately and efficiently. The process begins by identifying the types of files you have, which is crucial for tailoring the subsequent steps to your specific needs. This identification step allows the tool to suggest relevant categories for classification based on the file types involved.
 
